@@ -30,6 +30,7 @@
     "image-webpack-loader": "^8.1.0",
     "jquery": "^3.6.0",
     "mongoose": "^6.2.4",
+    "morgan": "^1.10.0",
     "popper.js": "^1.16.0",
     "save": "^2.4.0"
   }

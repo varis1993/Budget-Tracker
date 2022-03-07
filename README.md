@@ -13,6 +13,6 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Screenshot Link
 
-<a href="https://www.youtube.com/watch?v=07cgDXifsHQ&t=1s">
+<a href="https://tracker-budgets.herokuapp.com/">
 <img src="Shot1.jpg" alt="Budget-Tracker" style="width:600px;height:400px;">
 </a>
